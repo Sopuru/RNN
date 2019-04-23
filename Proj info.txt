@@ -1,0 +1,7 @@
+
+# author: Joshua Sopuru:
+--------------------------------------------------------------------
+CODES WILL BE UPLOADED AFTER COMPLETION OF PROJECT
+
+___________________________________________________
+'KNN', KNeighborsClassifier())) classifier was used based on 7 network flow features to achieve desired accuracy
